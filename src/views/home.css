@@ -13,7 +13,7 @@
   align-items: center;
   flex-direction: column;
 }
-.home-icon {
-  width: 50%;
-  height: 106px;
+.home-image {
+  width: 200px;
+  object-fit: cover;
 }
