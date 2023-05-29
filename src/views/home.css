@@ -1,0 +1,20 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-container1 {
+  flex: 0 0 auto;
+  width: 230px;
+  height: 155px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.home-icon {
+  width: 50%;
+  height: 106px;
+}
